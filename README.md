@@ -8,6 +8,8 @@ AMD Ryzen Threadripper 1950X, 1 CPU, 32 logical and 16 physical cores
 
 
 ```
-|                Method |     Mean |   Error |  StdDev |    Gen0 | Allocated |
-|---------------------- |---------:|--------:|--------:|--------:|----------:|
-| CalorieCountingResult | 159.0 μs | 1.06 μs | 0.99 μs | 18.3105 |  74.84 KB |
+|                  Method |     Mean |   Error |  StdDev |    Gen0 | Allocated |
+|------------------------:|---------:|--------:|--------:|--------:|----------:|
+| CalorieCountingResult   | 159.0 μs | 1.06 μs | 0.99 μs | 18.3105 |  74.84 KB |
+| RockPaperScissorsPart_1 | 171.0 us | 3.39 us | 3.77 us | 21.4844 |  88.14 KB |
+| RockPaperScissorsPart_2 | 198.4 us | 1.54 us | 1.44 us | 21.4844 |  88.14 KB |
